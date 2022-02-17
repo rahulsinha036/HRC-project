@@ -1,0 +1,39 @@
+body{
+    font-family: Calibri;
+    
+}
+
+.modal-paper{
+    background-color: #2a3f4d  !important;
+    color: whitesmoke !important;
+}
+
+.dialog-box{
+    background-color: #2a3f4d  !important;
+}
+
+.header{
+    font-size: calc(1.5vh + 0.80vw);
+    padding-top: 3vh;
+    padding-left: 1.5vw;
+    padding-bottom: 3vh;
+    border-bottom: 0.02vh solid #172229;
+}
+
+.main-text{
+    font-size:calc(0.9vh + 0.70vw);
+    padding-left: 2vw;
+    padding-top: 3vh;
+}
+
+.Edit-text{
+    font-size:calc(0.6vh + 0.70vw);
+    color: #95a0a8;;
+    padding-left: 2vw;
+    padding-top: 3vh;
+}
+
+.header-end{
+    padding-top: 3vh;
+    border-bottom: 0.02vh solid #172229;
+}

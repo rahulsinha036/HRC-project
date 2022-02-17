@@ -1,0 +1,83 @@
+button{
+    outline: none;
+}
+button:hover{
+    background-color:#1a252c;
+}
+
+.normal-button{
+    background-color: #2d4250;
+    border: 2px solid deepskyblue;
+    border-radius: 0.6vw;
+    color: white;
+    padding: calc(0.30vh + 0.20vw) calc(0.80vh + 0.60vw) calc(0.30vh + 0.20vw) calc(0.80vh + 0.60vw);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: calc(0.60vh + 0.80vw);
+    font-family:  Calibri;
+    cursor:pointer;
+    position: fixed;
+  
+}
+
+.gray-normal-button{
+
+    background-color: #2d4250;
+    border: 2px solid gray;
+    border-radius: 0.6vw;
+    color: gray;
+    padding: calc(0.30vh + 0.20vw) calc(0.80vh + 0.60vw) calc(0.30vh + 0.20vw) calc(0.80vh + 0.60vw);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: calc(0.60vh + 0.80vw);
+    font-family:  Calibri;
+    cursor:pointer;
+    position: fixed;
+
+}
+
+.gray-predict-button{
+    background-color: gray;
+    border: 2px solid gray;
+    border-radius: 0.6vw;
+    color: white;
+    padding: calc(0.30vh + 0.20vw) calc(0.60vh + 0.40vw) calc(0.30vh + 0.20vw) calc(0.60vh + 0.40vw);
+    text-align: center;
+    text-decoration: none;
+    font-size: calc(0.60vh + 0.80vw);
+    cursor: pointer;
+    position:fixed;
+    font-family:  Calibri;
+}
+
+.predict-button{
+
+    background-color: deepskyblue;
+    border: 2px solid deepskyblue;
+    border-radius: 0.6vw;
+    color: white;
+    padding: calc(0.30vh + 0.20vw) calc(0.60vh + 0.40vw) calc(0.30vh + 0.20vw) calc(0.60vh + 0.40vw);
+    text-align: center;
+    text-decoration: none;
+    font-size: calc(0.60vh + 0.80vw);
+    cursor: pointer;
+    position: fixed;
+    font-family:  Calibri;
+
+}
+
+.search-bar{
+    background-color: #283a46;
+    color: white;
+    border-radius:0.4vw ;
+    width: 18vw;
+    font-size: calc(0.60vh + 0.70vw);
+    padding-left: 1vw;
+    padding-top: calc(0.50vh + 0.20vw);
+    padding-bottom: calc(0.50vh + 0.20vw);
+    border: 0.5px solid rgb(10, 107, 139);
+    cursor: pointer;
+    position: fixed;
+}

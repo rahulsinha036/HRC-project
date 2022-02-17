@@ -1,0 +1,93 @@
+.table {
+    display: table;
+    width: calc(62vh + 64.3vw); 
+    font-family: Calibri;
+    background-color: #2d4250;
+    color: #95a0a8;
+  }
+  
+  .table-row {
+    display: table-row;
+  }
+  
+  .table-cell-1 {
+    display: table-cell;
+    font-size: calc(0.60vh + 0.60vw);
+    padding-bottom: 0.80vw; 
+    border-bottom: 1px solid black;
+    padding-left: 0.7vw;
+    width: 0.2vw;
+  }
+  .table-cell-2{
+    display: table-cell;
+    font-size: calc(0.60vh + 0.60vw);
+    padding-bottom: 0.80vw; 
+    border-bottom: 1px solid black;
+    padding-left: 1.8vw;
+    width: calc(10vh + 10.5vw);
+
+  }
+  .table-cell-3{
+    display: table-cell;
+    font-size: calc(0.60vh + 0.60vw);
+    padding-bottom: 0.80vw; 
+    border-bottom: 1px solid black;
+    width: 8vw;
+    padding-left: 0.2vw;
+
+  }
+  .table-cell-4{
+    display: table-cell;
+    font-size: calc(0.60vh + 0.60vw);
+    padding-bottom: 0.80vw; 
+    border-bottom: 1px solid black;
+    width: 8vw;
+    padding-left: calc(0.60vh + 0.50vw);
+  }
+  .table-cell-5{
+    display: table-cell;
+    font-size: calc(0.60vh + 0.60vw);
+    padding-bottom: 0.80vw; 
+    border-bottom: 1px solid black;
+    width: 10vw;
+    padding-left: calc(0.50vh + 0.70vw);
+    padding-right: 2.5vw;
+    
+
+  }
+  .table-cell-6{
+    display: table-cell;
+    font-size: calc(0.60vh + 0.60vw);
+    padding-bottom: 0.80vw; 
+    border-bottom: 1px solid black;
+    width: 5vw;
+    padding-left: calc(0.20vh + 0.30vw);
+    padding-right: 2.1vw;
+
+  }
+  .table-cell-7{
+    display: table-cell;
+    font-size: calc(0.60vh + 0.60vw);
+    padding-bottom: 0.80vw; 
+    border-bottom: 1px solid black;
+    width: 14vw;
+    padding-left: 1.0vw;
+
+  }
+  .table-cell-8{
+    display: table-cell;
+    font-size: calc(0.60vh + 0.60vw);
+    padding-bottom: 0.80vw; 
+    border-bottom: 1px solid black;
+    width: 12vw;
+    padding-left: 0.9vw;
+
+  }
+  .table-cell-9{
+    display: table-cell;
+    font-size: calc(0.60vh + 0.60vw);
+    padding-bottom: 0.80vw; 
+    border-bottom: 1px solid black;
+    padding-left: 2.8vw;
+
+  }

@@ -1,0 +1,52 @@
+body {
+  background-color: #39495e;
+  margin: 15vh 1vw 1vh 1vw;
+}
+
+table {
+  background-color: #2d4250;
+  font-family: "Calibri";
+  text-align: left;
+  border-collapse: collapse;
+  width: calc(70vh + 71.5vw);
+}
+thead {
+  position: absolute;
+  top: 10vh;
+  background: #2d4250;
+}
+tr:nth-child(even) {
+  background-color: #283a46;
+}
+/* Top , Right , Bottom , Left  */
+
+th {
+  font-size: calc(0.6vh + 0.6vw);
+  color: #95a0a8;
+  border-bottom: 0.02vh solid #1f2e38;
+  padding: 0vh 0vw 0.9vw 0.75vw;
+}
+
+td {
+  font-size: calc(0.8vh + 0.6vw);
+  color: white;
+  padding: 1.5vh 0vw 1.5vh 0.75vw;
+}
+
+::-webkit-scrollbar {
+  width: 0.6vw;
+}
+
+::-webkit-scrollbar-track {
+  background: #2d4250;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  height: 12vh;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
